@@ -1,0 +1,25 @@
+<resources>
+    <public />
+    <string name="svalidate_less_than">Should be fewer than %s characters</string>
+    <string name="svalidate_not_blank">Should not be blank</string>
+    <string name="svalidate_greater_than">Should be more than %s characters</string>
+    <string name="svalidate_lower_case">All characters should be lower case</string>
+    <string name="svalidate_upper_case">All characters should be upper case</string>
+    <string name="svalidate_one_lower_case">At least one character should be lower case</string>
+    <string name="svalidate_one_upper_case">At least one character should be upper case</string>
+    <string name="svalidate_one_number">Should be at least one number</string>
+    <string name="svalidate_one_letter">Should be at least one letter</string>
+    <string name="svalidate_start_with_upper">Should start with an uppercase letter</string>
+    <string name="svalidate_all_letters">Every character should be a letter</string>
+    <string name="svalidate_all_numbers">Every character should be a number</string>
+    <string name="svalidate_all_alphanumeric">Every character should be a number or letter</string>
+    <string name="svalidate_no_letters">Should not contain letters</string>
+    <string name="svalidate_no_numbers">Should not contain numbers</string>
+    <string name="svalidate_not_contain">Should not contain %s</string>
+    <string name="svalidate_contains">Should contain %s</string>
+    <string name="svalidate_contains_at_most_one">Should contain at most one %s</string>
+    <string name="svalidate_ends_with">Should end with %s</string>
+    <string name="svalidate_starts_with">Should start with %s</string>
+    <string name="svalidate_standard_password">Should have at least 8 characters with one upper, one lower and one special character</string>
+    <string name="svalidate_regex">Incorrect format</string>
+</resources>
